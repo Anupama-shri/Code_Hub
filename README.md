@@ -1,4 +1,4 @@
-# LeetLab
+# CodeHub
 
 LeetLab is a full-stack coding platform inspired by LeetCode. Users can authenticate, solve problems in a browser-based editor, run code against test cases through Judge0, review submissions, and organize problems into playlists.
 

@@ -25,7 +25,7 @@ const Navbar = () => {
             <div className="absolute inset-0 bg-primary/20 rounded-full blur-md opacity-0 group-hover:opacity-100 transition-opacity" />
           </div>
           <span className="text-lg md:text-xl font-extrabold tracking-tight text-white hidden sm:block">
-            Leet<span className="text-primary">Lab</span>
+            Code<span className="text-primary">Hub</span>
           </span>
         </Link>
 
